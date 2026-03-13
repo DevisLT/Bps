@@ -1,0 +1,5 @@
+{
+  "name": "BatteryPowerSharing (BPS)",
+  "description": "A peer-to-peer energy sharing platform allowing nearby devices to share battery power wirelessly.",
+  "requestFramePermissions": ["bluetooth", "geolocation"]
+}
